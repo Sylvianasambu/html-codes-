@@ -1,0 +1,56 @@
+# html-codes-<!doctype html>
+	<html>
+	<head>
+		<title>
+		
+		</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	<body background="r4.JPG">
+	<div style="text-align: center;">
+
+
+
+
+
+
+
+
+        <a href="home.html">Home</a>
+		<a href="gallery.html">Gallery</a>
+		<a href="contacts.html">Contacts</a>
+		<a href="about.html">About</a>
+			
+		</div>
+
+		
+		
+            
+
+	<table border="1" cellpadding="3" cellspacing="0" align="right">
+		<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+
+            	<caption>description of myself</caption>
+            	<th>Name</th><th>country</th><td><b>county</b></td><td><b>Academics</b></td>
+            	<tr><td>sylvia nyongesa</td><td>Kenya</td><td>Nakuru</td><td>kabarak institution</td></tr>
+            	
+
+
+
+            </table>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+	</body>
+	</html>

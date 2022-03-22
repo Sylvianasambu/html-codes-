@@ -101,19 +101,19 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="11.jpg" style="width:200PX" width="200px">
-  <div class="text">bazenga</div>
+  <div class="text">Kim </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
   <img src="14.jpg" style="width:200px"width="200px">
-  <div class="text">kinuthia</div>
+  <div class="text">sylvia</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="13.jpg" style="width:200px"width="200px">
-  <div class="text">peter</div>
+  <div class="text">nyongesa</div>
 </div>
 
 </div>
